@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SylvorenzoJacques
+- 👋 Hi, I’m @Renzo-Tshimologong
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning ASP .NET Core MVC
 - 💞️ I’m looking to collaborate on open source projects
